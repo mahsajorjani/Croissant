@@ -20,30 +20,18 @@ p {
     text-align: center;
 }
 
-a {
-   
-    cursor: pointer;
-    text-decoration: underline;
-    display: block;
-   
-}
+
 .croissant-pic {
     display: block;
     margin-left: auto;
     margin-right: auto;
 }
 footer {
-    display: block;
     text-align: center;
+  }
+  footer a {
+    margin: 0 10px;
+    color: green;
     cursor: pointer;
     text-decoration: underline;
-  position: relative;
-  top: 0;
-  left: 0;
-  transform: none;
-   
-}
-footer a {
-    margin: 0 10px;
-    color: rgb(14, 151, 14);
-}
+  }
